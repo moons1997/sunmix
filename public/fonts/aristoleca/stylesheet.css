@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Aristotelica Display Trial DmBd';
+    src: url('AristotelicaDisplayTrial-DmBd.woff2') format('woff2'),
+        url('AristotelicaDisplayTrial-DmBd.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aristotelica Small Caps';
+    src: url('AristotelicaSmallCaps-Regular.woff2') format('woff2'),
+        url('AristotelicaSmallCaps-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
